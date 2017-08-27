@@ -1,0 +1,45 @@
+.speech-bubble h1 {
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-2 {
+    font-size: 2.3em;
+    text-align: center;
+}
+
+.face1 {
+    color:#1AC732;
+}
+.face2 {
+    color:#7EC90E;
+}
+.face3 {
+    color:#FFCC00;
+}
+.face4 {
+    color:#FF9900;
+}
+.face5 {
+    color:#FA6715;
+}
+.face6 {
+    color:#F22922;
+}
+
+.graph-container {
+    padding: 30px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 2px #eee;
+    margin: 10px 0;
+    position: relative;
+
+    float:left;
+    margin-right:10px;
+}
+
+.face {
+    height: 30px;
+    width: 30px;
+}
